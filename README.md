@@ -1,0 +1,20 @@
+## star2qltezh-user 10 QP1A.190711.020 G9650ZHU9FVF2 release-keys
+- Manufacturer: samsung
+- Platform: sdm845
+- Codename: star2qltechn
+- Brand: samsung
+- Flavor: star2qltezh-user
+- Release Version: 10
+- Kernel Version: 4.9.186
+- Id: QP1A.190711.020
+- Incremental: G9650ZHU9FVF2
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: false
+- Treble Device: true
+- Locale: en-GB
+- Screen Density: 420
+- Fingerprint: samsung/star2qltezh/star2qltechn:10/QP1A.190711.020/G9650ZHU9FVF2:user/release-keys
+- OTA version: 
+- Branch: star2qltezh-user-10-QP1A.190711.020-G9650ZHU9FVF2-release-keys
+- Repo: samsung_star2qltechn_dump
